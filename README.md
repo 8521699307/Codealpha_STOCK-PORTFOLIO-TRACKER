@@ -1,6 +1,8 @@
 
 ## Task 2: Stock Portfolio Tracker
 
+Author: **Rohit Kumar**
+
 ### Description
 
 This script allows users to manually input stock symbols and quantities. It then calculates the total investment value using predefined stock prices.
